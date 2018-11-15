@@ -5,10 +5,10 @@ I have finished 17th out of 1142 participants in this hackathon. The hackathon w
 Google colaboratory
 
 # Libraries:
-Numpy
-Pandas
-Scikit-learn
-lightgbm
-catboost
-xgboost
+Numpy,
+Pandas,
+Scikit-learn,
+lightgbm,
+catboost,
+xgboost.
 
