@@ -10,5 +10,7 @@ Pandas,
 Scikit-learn,
 lightgbm,
 catboost,
-xgboost.
+xgboost,
+Seaborn,
+Matplotlib.
 
