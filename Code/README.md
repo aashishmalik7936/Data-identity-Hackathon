@@ -1,1 +1,1 @@
-I used python to make the machine learning model and the above file is my code in ipynb format.
+I used python to make the machine learning model and I have uploaded two files in which the file named analysis.ipynb contains the analysis which I have done on the train dataset and the other files contains the code of machine learning model.
